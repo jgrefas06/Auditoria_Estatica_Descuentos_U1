@@ -97,11 +97,3 @@ En `docs/requisitos.md` se encuentran los requisitos reformulados (RF-01 a RF-04
 
 El proyecto cuenta con un historial local de cuatro commits de preparación. Aún queda pendiente publicar el repositorio en GitHub, realizar y documentar una revisión por pares con participación real y elaborar el informe PDF de la actividad.
 
-## Referencias
-
-- Guía didáctica de Verificación y Validación de Software, Unidad 1.
-- Consigna de la actividad «Evaluación estática», entregada por el docente.
-- ESLint. Documentación oficial: https://eslint.org/docs/latest/use/getting-started
-- Fagan, M. E. (1976). *Design and code inspections to reduce errors in program development*.
-- Ayewah et al. (2008). *Using static analysis to find bugs*.
-- ISTQB (2024). *Certified Tester Foundation Level*, v4.0.1.
