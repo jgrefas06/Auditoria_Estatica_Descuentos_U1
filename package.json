@@ -1,0 +1,18 @@
+{
+  "name": "auditoria-estatica-descuentos-u1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evaluación estática de un módulo JavaScript de descuentos — Unidad 1",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24.0.0"
+  },
+  "scripts": {
+    "lint": "eslint src/descuentos.js",
+    "evidencias": "node scripts/generar-evidencias.cjs",
+    "revisar-sintaxis": "node --check src/descuentos.js"
+  },
+  "devDependencies": {
+    "eslint": "10.14.0"
+  }
+}

@@ -1,0 +1,6 @@
+VERIFICACION SINTACTICA REAL (NO ES ESLINT)
+Comando: node --check src/descuentos.js
+Version Node: v22.16.0
+Fecha de ejecucion (UTC): 2026-11-11T15:29:53Z
+Codigo de salida: 0
+Resultado: sintaxis aceptada; no se ejecuto calcularDescuento ni pruebas funcionales.
